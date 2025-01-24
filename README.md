@@ -149,16 +149,3 @@ results/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Created by [Your Name]** - [GitHub Profile](https://github.com/yourusername)
-```
-
-This README includes:
-- Clear visual examples
-- Installation/usage instructions
-- Parameter tuning guides
-- Performance metrics
-- Contribution guidelines
-- License information
-
-Customize the image URLs, GitHub links, and performance metrics based on your actual implementation and test results.
